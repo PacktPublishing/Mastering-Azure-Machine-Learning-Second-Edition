@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+azureml-logs
+.azureml
+.git
+outputs
+logs
+azureml-setup
+docs
+compute.yml

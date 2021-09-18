@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/compute.schema.json
+name: mldemocompute
+type: amlcompute
+size: STANDARD_D2_V2
+location: westus2
+min_instances: 0
+max_instances: 2
+idle_time_before_scale_down: 900
