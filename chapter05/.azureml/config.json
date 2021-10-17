@@ -1,0 +1,5 @@
+{
+    "subscription_id": "<yoursubid>",
+    "resource_group": "mldemo",
+    "workspace_name": "mldemows"
+}
