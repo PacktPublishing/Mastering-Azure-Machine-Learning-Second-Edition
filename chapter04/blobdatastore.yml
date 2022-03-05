@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/azureBlob.schema.json
+name: mldemoblob
+type: azure_blob
+description: main ML blob storage
+account_name: mldemoblob8765
+container_name: mlfiles
+credentials:  
+  sas_token: se=2023-01-01&sp=racwdl&sv=2018-11-09&sr=c&sig=DP5F%2BBLgpl1kKyWvqxPzY6KsD2fw7ZZM7L%2BM1sRwGGA%3D

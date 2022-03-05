@@ -1,0 +1,11 @@
+azureml-sdk
+azureml-widgets
+pandas
+numpy
+seaborn
+azureml-dataprep[pandas]
+scikit-learn
+umap_learn
+statsmodels
+missingno
+plotly
