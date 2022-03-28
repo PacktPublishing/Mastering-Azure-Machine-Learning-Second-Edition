@@ -1,0 +1,7 @@
+$schema: https://azuremlschemas.azureedge.net/latest/azureBlob.schema.json
+account_name: mldemostorage82179
+container_name: mldata
+endpoint: core.windows.net
+name: mldata
+protocol: https
+type: azure_blob
