@@ -1,0 +1,41 @@
+# Code-based pipeline trigger configuration
+trigger:
+- main
+
+# Agent pool configuration for pipeline compute resources
+pool:
+  vmImage: ubuntu-latest
+
+# The name of the pipeline
+name: CI Pipeline
+
+variables:
+- group: azureml-vg
+
+# Grouping of pipeline jobs, can be skipped if the pipeline contains only a single stage.
+stages:
+
+- stage: CI
+
+  # Pipeline jobs to be executed for this stage.
+  jobs:
+
+  - job: Build
+    steps:
+    
+    - script: python -m pip install --upgrade pip setuptools wheel
+      displayName: 'Install tools'
+    
+    - script: python -m pip install -r requirements.txt
+      displayName: 'Install dependencies'
+    
+    - script: pytest tests --doctest-modules
+      displayName: 'Run tests and coverage'
+
+- stage: Train
+
+  # Pipeline jobs to be executed for this stage.
+  jobs:
+  - job: Train
+    steps:
+    - script: python train.py

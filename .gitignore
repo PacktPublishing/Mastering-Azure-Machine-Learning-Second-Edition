@@ -17,3 +17,8 @@ chapter10/data/mnist/test-images.gz
 chapter10/data/mnist/test-labels.gz
 chapter10/data/mnist/train-images.gz
 chapter10/data/mnist/train-labels.gz
+chapter04/code/__pycache__/__init__.cpython-38.pyc
+chapter16/code/__pycache__/keras_azure_ml_cb.cpython-38.pyc
+chapter16/code/__pycache__/keras_azure_ml_cb.cpython-36.pyc
+chapter16/code/__pycache__/__init__.cpython-38.pyc
+chapter16/code/__init__.py
