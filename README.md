@@ -59,8 +59,7 @@ Azure ML Python SDK version 1.34.0 at the time of writing. If you want to work w
 different setup, be sure to check the supported Python version for the Azure ML Python
 SDK (https://pypi.org/project/azureml-sdk/).
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781803232416_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803232416_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
