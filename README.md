@@ -1,8 +1,6 @@
-# Mastering Azure Machine Learning - Second Edition
+# Artificial Intelligence with Power BI
 
-# Natural Language Processing with Flair
-
-	<a href="https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311"><img src="https://static.packt-cdn.com/products/9781801072311/cover/smaller" alt="Natural Language Processing with Flair" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/simplify-big-data-analytics-with-amazon-emr/9781801071079?utm_source=github&utm_medium=repository&utm_campaign=9781801071079"><img src="https://static.packt-cdn.com/products/9781801071079/cover/smaller" alt="Artificial Intelligence with Power BI" height="256px" align="right"></a>
 
 
 This is the code repository for Mastering Azure Machine Learning - Second Edition](https://www.packtpub.com/product/mastering-azure-machine-learning-second-edition/9781803232416?utm_source=github&utm_medium=repository&utm_campaign=9781803232416), published by Packt.
