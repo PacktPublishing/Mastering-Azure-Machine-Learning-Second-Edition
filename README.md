@@ -1,10 +1,10 @@
 # Natural Language Processing with Flair
 
-<a href="https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311"><img src="https://static.packt-cdn.com/products/9781801072311/cover/smaller" alt="Natural Language Processing with Flair" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/mastering-azure-machine-learning-second-edition/9781803232416?utm_source=github&utm_medium=repository&utm_campaign=9781803232416"><img src="https://static.packt-cdn.com/products/9781803232416/cover/smaller" alt="Natural Language Processing with Flair" height="256px" align="right"></a>
 
-This is the code repository for [Natural Language Process ng with Flair](https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311), published by Packt.
+This is the code repository for [Natural Language Process ng with Flair](https://www.packtpub.com/product/mastering-azure-machine-learning-second-edition/9781803232416?utm_source=github&utm_medium=repository&utm_campaign=9781803232416), published by Packt.
 
-**Execute large-scale end-to-end machine learning with Azurer**
+**Execute large-scale end-to-end machine learning with Azure**
 
 ## What is this book about?
 Azure Machine Learning is a cloud service for accelerating and managing the machine learning (ML) project life cycle that ML professionals, data scientists, and engineers can use in their day-to-day workflows. This book covers the end-to-end ML process using Microsoft Azure Machine Learning, including data preparation, performing and logging ML training runs, designing training and deployment pipelines, and managing these pipelines via MLOps.
